@@ -1,0 +1,58 @@
+﻿Imports System.Data.SqlClient
+Imports System.Data
+Imports WindowsApplication1.ClsTools
+Imports System.Deployment.Application
+Public Class frmPrincipal
+    Private Sub frmPrincipal_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.Text = Space(160) + "Desarrollo de Engordas Estabuladas S.A. de C.V." + Space(10) + VersionComerci()
+        Me.Hide()
+        login.Show()
+        Me.WindowState = 2
+    End Sub
+    Private Sub SalirDeSysComercialToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SalirDeSysComercialToolStripMenuItem.Click
+        If MsgBox("Desea Salir de SysComerci ? ", MessageBoxButtons.YesNo, "               SysComerci [V 1.0]") = MsgBoxResult.Yes Then
+            Me.Close()
+            Application.Exit()
+        End If
+    End Sub
+    Private Sub CerrarSesionToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CerrarSesionToolStripMenuItem.Click
+        If MsgBox("Desea Cerrar Sesion ? ", MessageBoxButtons.YesNo, "               SysComerci [V 1.0]") = MsgBoxResult.Yes Then
+            Me.Hide()
+            'login.Show()
+        End If
+    End Sub
+
+    Private Sub MttoChoferesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MttoChoferesToolStripMenuItem.Click
+        Dim frm As New FrmChoferes()
+        frm.Show()
+    End Sub
+
+    Private Sub MttoRutasToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MttoRutasToolStripMenuItem.Click
+        Dim frm As New FrmRutas()
+        frm.Show()
+
+    End Sub
+
+    Private Sub ResetContraseñaToolStripMenuItem1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ResetContraseñaToolStripMenuItem1.Click
+        Dim frm As New frmCambiarContraseña()
+        frm.Show()
+    End Sub
+
+    Private Sub PerfilUsuariosToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PerfilUsuariosToolStripMenuItem.Click
+        Dim frm As New frmPerfilesUsuario()
+        frm.Show()
+    End Sub
+
+    Private Sub MttoVendedoresToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MttoVendedoresToolStripMenuItem.Click
+        Dim frm As New frmVendedores
+        frm.Show()
+    End Sub
+    Private Sub RegistroFletesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RegistroFletesToolStripMenuItem.Click
+        Dim frm As New frmRegistroFletes
+        frm.Show()
+    End Sub
+    Private Sub RegistroDeFletesToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RegistroDeFletesToolStripMenuItem.Click
+        Dim frm As New frmReporteFletes
+        frm.Show()
+    End Sub
+End Class

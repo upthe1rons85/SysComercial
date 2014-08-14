@@ -1,0 +1,61 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:Reportes/f:RPTReporteFletes.rdlc" caret="0" fromTop="0" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:FrmChoferes.vb" caret="0" fromTop="0" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPerfilesUsuario.vb" caret="3070" fromTop="29" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:Reportes/f:frmRPTReporteFletes.vb" caret="0" fromTop="0" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmReporteFletes.vb" caret="533" fromTop="9" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmRegistroFletes.vb" caret="4734" fromTop="3" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="156" fromTop="0" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:My Project/f:Application.Designer.vb" caret="1516" fromTop="12" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:clsVendedores.vb" caret="2828" fromTop="70" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmVendedores.vb" caret="7150" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:Reportes/f:frmRPTReporteFletes.vb" caret="464" fromTop="4" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:Reportes/f:frmRPTReporteFletes.vb" caret="533" fromTop="3" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/d:Reportes/f:RPTReporteFletes.rdlc" caret="0" fromTop="0" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmReporteFletes.vb" caret="335" fromTop="4" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmReporteFletes.vb" caret="557" fromTop="11" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="1738" fromTop="21" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="1518" fromTop="10" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="1593" fromTop="6" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="1409" fromTop="7" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="2030" fromTop="8" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="2220" fromTop="15" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="2562" fromTop="10" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="2776" fromTop="17" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="3112" fromTop="8" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="3322" fromTop="15" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="3653" fromTop="4" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="4188" fromTop="7" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="4734" fromTop="7" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="4940" fromTop="14" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="4435" fromTop="12" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="3892" fromTop="8" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="863" fromTop="10" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="468" fromTop="10" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmPrincipal.vb" caret="156" fromTop="4" />
+      <File id="CFA64C7B-2A44-4381-BFB0-477BEBA7CB08/f:frmVendedores.vb" caret="7174" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
